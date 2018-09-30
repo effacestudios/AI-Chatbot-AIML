@@ -1,0 +1,10 @@
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\bin\Debug\Artificial Intelligence Chatbot.exe.config
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\bin\Debug\Artificial Intelligence Chatbot.exe
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\bin\Debug\Artificial Intelligence Chatbot.pdb
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\bin\Debug\AIMLBot.dll
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\obj\Debug\Artificial Intelligence Chatbot.csprojResolveAssemblyReference.cache
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\obj\Debug\Artificial_Intelligence_Chatbot.Form1.resources
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\obj\Debug\Artificial_Intelligence_Chatbot.Properties.Resources.resources
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\obj\Debug\Artificial Intelligence Chatbot.csproj.GenerateResource.Cache
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\obj\Debug\Artificial Intelligence Chatbot.exe
+C:\Main\Softwares\Installed\Vs Projects\Artificial Intelligence Chatbot\Artificial Intelligence Chatbot\obj\Debug\Artificial Intelligence Chatbot.pdb
